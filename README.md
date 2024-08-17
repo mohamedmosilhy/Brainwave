@@ -1,6 +1,6 @@
 # 🧠 Brainwave
 
-[![Watch the video](videos/Screenshot 2024-08-17 204839.png)](https://drive.google.com/file/d/1D0oLYIPbF8cUhG8tzcJG33_D1YyROF0t/view?usp=drive_link)
+[![Watch the video](https://github.com/mohamedmosilhy/Brainwave/blob/main/videos/Screenshot%202024-08-17%20204839.png)](https://drive.google.com/file/d/1D0oLYIPbF8cUhG8tzcJG33_D1YyROF0t/view?usp=drive_link)
 > *Click the image above to watch the demo on Google Drive.*
 
 ---
