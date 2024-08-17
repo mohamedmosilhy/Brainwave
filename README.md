@@ -1,6 +1,7 @@
 # 🧠 Brainwave
 
-https://github.com/mohamedmosilhy/Signal-Equalizer/assets/115044826/88899ce1-07e8-4ca5-8ba8-6172c09e0294
+[![Watch the video](videos/Screenshot 2024-08-17 204839.png)](https://drive.google.com/file/d/1D0oLYIPbF8cUhG8tzcJG33_D1YyROF0t/view?usp=drive_link)
+> *Click the image above to watch the demo on Google Drive.*
 
 ---
 
