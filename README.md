@@ -17,11 +17,11 @@
 
 **Brainwave** is a modern UI/UX website developed using React.js and Tailwind CSS, designed to exemplify modern principles in web design. Its sleek design, seamless animations, and exceptional user experience set a new standard, making it an excellent reference or inspiration for future projects.
 
-**Live Website:** [Brainwave](https://your-live-website-link.com)
+**Live Website:** [Brainwave](https://brainwave-rosy-ten.vercel.app/)
 
 ## 🔗 Links
 
-- **[Live Website](https://your-live-website-link.com)**
+- **[Live Website](https://brainwave-rosy-ten.vercel.app/)**
 
 ## ⚙️ Tech Stack
 
@@ -53,7 +53,7 @@ Ensure you have the following installed:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
+git clone https://github.com/mohamedmosilhy/Brainwave.git
 cd brainwave
 ```
 
