@@ -1,24 +1,26 @@
 # 🧠 Brainwave
 
-![Brainwave Video Demo](./videos/Brainwave.mp4)
+https://github.com/mohamedmosilhy/Signal-Equalizer/assets/115044826/88899ce1-07e8-4ca5-8ba8-6172c09e0294
 
 ---
 
 ## 📋 Table of Contents
 
 - [🤖 Introduction](#-introduction)
+- [🔗 Links](#-links)
 - [⚙️ Tech Stack](#-tech-stack)
 - [🔋 Features](#-features)
 - [🤸 Quick Start](#-quick-start)
-- [🔗 Links](#-links)
 
 ## 🤖 Introduction
 
 **Brainwave** is a modern UI/UX website developed using React.js and Tailwind CSS, designed to exemplify modern principles in web design. Its sleek design, seamless animations, and exceptional user experience set a new standard, making it an excellent reference or inspiration for future projects.
 
-If you're just getting started, join our active [Discord community](https://discord.gg/YOUR_COMMUNITY_LINK) with over 27k+ members, where you can get help and share your journey.
-
 **Live Website:** [Brainwave](https://your-live-website-link.com)
+
+## 🔗 Links
+
+- **[Live Website](https://your-live-website-link.com)**
 
 ## ⚙️ Tech Stack
 
@@ -69,7 +71,3 @@ npm run dev
 ```
 
 Open `http://localhost:5173` in your browser to view the project.
-
-## 🔗 Links
-
-- **[Live Website](https://your-live-website-link.com)**
